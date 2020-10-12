@@ -7,3 +7,8 @@
 - 📫 How to reach me: Instagram - https://www.instagram.com/universal_coder/
 - ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
 
+# *Contact Us :-*
+
+
+|[Instagram](https://instagram.com/universal_coder)|[Twitter](https://twitter.com/LondheAaryan)|[Linkedin](https://www.linkedin.com/in/aaryan-r-londhe-0a1809179/)|
+|-|-|-|
