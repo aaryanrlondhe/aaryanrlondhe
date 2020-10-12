@@ -1,6 +1,6 @@
 # *About Me :-*
 
-📌 Hi there, I am Universal Coder ! 👋
+📌 Hi there, I am Universal Coder ! 
 
 📌 I’m currently working on GUI Projects using tkinter
 
