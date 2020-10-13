@@ -1,4 +1,4 @@
-# *About Me :-*
+# About Me :-
 
 📌 Hi there, I am Universal Coder ! 
 
@@ -12,7 +12,7 @@
 
 📌 Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
 
-# *Contact Us :-*
+# Contact Us :-
 
 |[Instagram](https://instagram.com/universal_coder)|[Twitter](https://twitter.com/LondheAaryan)|[Linkedin](https://www.linkedin.com/in/aaryan-r-londhe-0a1809179/)|
 |-|-|-|
