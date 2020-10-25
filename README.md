@@ -1,5 +1,3 @@
-<img src="https://github.com/account" width="100px;" style="border-radius:50%;">
-<h1><b>About Me</b></h1>
 # About Me :-
 
 📌 Hi there, I am Universal Coder ! 
