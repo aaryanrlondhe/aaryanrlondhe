@@ -4,7 +4,7 @@
 
 📌 I’m currently working on GUI Projects using tkinter
 
-📌 I’m currently learning Python and C++
+📌 I’m currently learning Python and Ethical Hacking
 
 📌 I’m looking to collaborate on Instagram
 
@@ -14,5 +14,5 @@
 
 # Contact Us :-
 
-|[Instagram](https://instagram.com/universal_coder)|[Twitter](https://twitter.com/LondheAaryan)|[Linkedin](https://www.linkedin.com/in/aaryan-r-londhe-0a1809179/)|
+|[Instagram](https://instagram.com/universalcoderr)|[Twitter](https://twitter.com/LondheAaryan)|[Linkedin](https://www.linkedin.com/in/aaryan-r-londhe-0a1809179/)|
 |-|-|-|
