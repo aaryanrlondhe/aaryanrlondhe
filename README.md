@@ -4,10 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1086F7&center=true&vCenter=true&width=1000&lines=Software+Developer.;Tech+Enthusiast.;Active+Learner.;Machine+Learning+Engineer.;Feel+free+to+reach+out!" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=sunset-gradient" />
-</p>
-
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aaryanrlondhe/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -36,4 +32,9 @@
 ### 🎖️ &nbsp; My Certifications :
 <br />
 
+### 🎖️ &nbsp; My Certifications :
+<br />
 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=sunset-gradient" />
+</p>
