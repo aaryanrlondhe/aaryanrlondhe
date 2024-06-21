@@ -32,8 +32,8 @@
 ---
 
 ### 🎖️ &nbsp;My Certifications :
-<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" title="Comptia Security+" alt="Comptia Security+" width="150" height="150"/>&nbsp;
-<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" title="Comptia Network+" alt="Comptia Network+" width="150" height="150"/>&nbsp;
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" title="Comptia Security+" alt="Comptia Security+" width="170" height="170"/>&nbsp;
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" title="Comptia Network+" alt="Comptia Network+" width="170" height="170"/>&nbsp;
 
 </p>
 
