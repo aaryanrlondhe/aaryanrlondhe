@@ -30,7 +30,7 @@
 ---
 
 ### 🎖️ &nbsp; My Certifications :
-[![Security Analyst Fundamentals Specialization](https://images.credly.com/size/100x100/images/89fc0e9e-6da5-4146-b277-cd11c313123f/Security_Analyst_Fundamentals_Specialization.png)](http://www.credly.com/badges/8f3afd71-0986-4779-b2b6-11b824f85d70 "Security Analyst Fundamentals Specialization")
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/earner/earned/badge/4ad6b855-8845-4632-8596-a3d2690f1b24 "CompTIA Security+ ce Certification")
 <br />
 
 ### 🔥 &nbsp; My Stats :
