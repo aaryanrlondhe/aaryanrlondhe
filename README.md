@@ -32,7 +32,7 @@
 ### 🎖️ &nbsp; My Certifications :
 <br />
 
-### 🎖️ &nbsp; My Certifications :
+### 🔥 &nbsp; My Stats :
 <br />
 
 <p align="center">
