@@ -32,7 +32,7 @@
 ---
 
 ### 🎖️ &nbsp;My Certifications :
-![Security Plus Logo](https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg){:height="20px" width="20px"}
+![Security Plus Logo](https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg){:height="100px" width="100px"}
 
 </p>
 
