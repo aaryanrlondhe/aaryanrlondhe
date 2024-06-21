@@ -5,19 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+<div style="text-align: center;">
+
+  <!-- LinkedIn button -->
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
 
-<!-- Google Scholar button -->
-<a href="https://scholar.google.com/citations?user=your-google-scholar-id" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Research-yellow?style=flat-square&logo=google-scholar">
-</a>
+  <!-- Google Scholar button -->
+  <a href="https://scholar.google.com/citations?user=your-google-scholar-id" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-yellow?style=flat-square&logo=google-scholar">
+  </a>
 
-<!-- Email button -->
-<a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail">
-</a>
+  <!-- ORCID button -->
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-Researcher-green?style=flat-square&logo=orcid">
+  </a>
+
+  <!-- Email button -->
+  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail">
+  </a>
+
+</div>
+
   <h1 style="text-align: center;">Hello Everyone, I am Aaryan R Londhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
   <p align="center">
