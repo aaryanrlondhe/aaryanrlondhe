@@ -43,8 +43,8 @@
 <!-- Inserting and resizing the image -->
 <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
      alt="CompTIA Security+ Logo" 
-     width="120" 
-     height="120">
+     width="150" 
+     height="150">
 
 </body>
 </html>
