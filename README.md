@@ -30,29 +30,30 @@
   }
 </style>
 
-<div class="button-container">
+<div style="text-align: center;">
 
   <!-- LinkedIn button -->
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
   <!-- Google Scholar button -->
   <a href="https://scholar.google.com/citations?user=your-google-scholar-id" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Google%20Scholar-yellow?style=for-the-badge&logo=google-scholar&logoColor=white">
+    <img src="https://img.shields.io/badge/-Google%20Scholar-yellow?style=flat-square&logo=google-scholar&logoColor=white">
   </a>
 
   <!-- ORCID button -->
   <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-ORCID-green?style=for-the-badge&logo=orcid&logoColor=white">
+    <img src="https://img.shields.io/badge/-ORCID-green?style=flat-square&logo=orcid&logoColor=white">
   </a>
 
   <!-- Email button -->
   <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-green?style=flat-square&logo=gmail&logoColor=white">
   </a>
 
 </div>
+
 
   <hr>
 
