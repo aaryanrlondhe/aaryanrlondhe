@@ -37,7 +37,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Resize Images Example</title>
 </head>
 <body>
 
@@ -50,8 +49,8 @@
        style="width: 200px; height: auto; margin-right: 20px;">
 
   <!-- Second image -->
-  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
-       alt="CompTIA Security+ Logo" 
+  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" 
+       alt="CompTIA Network+ Logo" 
        style="width: 200px; height: auto;">
 
 </div>
