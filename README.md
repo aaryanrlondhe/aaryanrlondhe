@@ -36,7 +36,7 @@
 </p>
 
 ---
-### 🔥 &nbsp; My Statistics :
+### 📈 &nbsp; My Statistics :
 <br />
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=sunset-gradient" />
