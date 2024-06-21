@@ -13,7 +13,7 @@
 
 - 💻I'm a Computer Science student interested in Full Stack Development and Mathematics.
 - 🌱 I'm always eager to learn new skills and technologies.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-aaryanrlondhe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaryanrlondhe/)
+- 📫 How to reach me: aaryanrlondhe@gmail.com
 
 ---
 
