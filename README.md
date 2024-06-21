@@ -29,7 +29,7 @@
 
 ---
 
-### 🎖️ &nbsp;My Certifications :
+### 🎖️ &nbsp;Certifications :
 <p>
 <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" title="Comptia Security+" alt="Comptia Security+" width="200" height="200"/>&nbsp;
 <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" title="Comptia Network+" alt="Comptia Network+" width="200" height="200"/>&nbsp;
@@ -37,7 +37,7 @@
 
 ---
 
-### 📈 &nbsp; My Statistics :
+### 📈 &nbsp; Statistics :
 <br />
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=sunset-gradient" />
