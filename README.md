@@ -37,7 +37,7 @@
 
   <hr>
 
-  <h3>🎖️ &nbsp;Certifications :</h3>
+  <h3>🎖️ &nbsp;Certifications and Licences :</h3>
   <p>
     <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" title="CompTIA Security+" alt="CompTIA Security+" width="200" height="200">&nbsp;
     <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" title="CompTIA Network+" alt="CompTIA Network+" width="200" height="200">&nbsp;
