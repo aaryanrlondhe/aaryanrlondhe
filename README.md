@@ -22,7 +22,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -32,35 +32,8 @@
 ---
 
 ### 🎖️ &nbsp;My Certifications :
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Side-by-Side Logos</title>
-</head>
-<body>
-
-<!-- Container for logos -->
-<div style="display: flex;">
-
-  <!-- First logo -->
-  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
-       alt="CompTIA Security+ Logo" 
-       style="width: 200px; height: auto;">
-
-  <!-- Second logo -->
-  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
-       alt="CompTIA Security+ Logo" 
-       style="width: 200px; height: auto;">
-
-</div>
-
-</body>
-</html>
-
-
-
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" title="Comptia Security+" alt="Comptia Security+" width="40" height="40"/>&nbsp;
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" title="Comptia Network+" alt="Comptia Network+" width="40" height="40"/>&nbsp;
 
 </p>
 
