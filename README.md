@@ -37,20 +37,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Side-by-Side Logos</title>
 </head>
 <body>
 
-<!-- Container for images -->
-<div style="display: flex; align-items: center;">
+<!-- Container for logos -->
+<div style="display: flex;">
 
-  <!-- First image -->
+  <!-- First logo -->
   <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
        alt="CompTIA Security+ Logo" 
-       style="width: 200px; height: auto; margin-right: 20px;">
+       style="width: 200px; height: auto;">
 
-  <!-- Second image -->
-  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" 
-       alt="CompTIA Network+ Logo" 
+  <!-- Second logo -->
+  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
+       alt="CompTIA Security+ Logo" 
        style="width: 200px; height: auto;">
 
 </div>
