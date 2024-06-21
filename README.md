@@ -32,7 +32,24 @@
 ---
 
 ### 🎖️ &nbsp;My Certifications :
-![Security Plus Logo](https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg){:height="100px" width="100px"}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resize Image Example</title>
+</head>
+<body>
+
+<!-- Inserting and resizing the image -->
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
+     alt="CompTIA Security+ Logo" 
+     width="10" 
+     height="10">
+
+</body>
+</html>
+
 
 </p>
 
