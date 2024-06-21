@@ -7,10 +7,6 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=sunset-gradient" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaryanrlondhe&style=flat-square&color=blue" alt="">
-</p>
-
 
 
 <p align="center">
