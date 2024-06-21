@@ -33,7 +33,7 @@
 
   <ul>
    <li> 💼 Currently a SOC Analyst at University of South Carolina, Aiken, focusing on cybersecurity operations.</li>
-<li>🎓 Pursuing a Bachelor’s in Computer Science with a Cybersecurity concentration, maintaining a GPA of 3.8.</li>
+<li>🎓 Pursuing a Bachelor’s in Computer Science with a Cybersecurity concentration.</li>
 <li>🏆 Recognized in the Hall of Fame by Apple, American Express, Shell, and Newfold for web server security contributions.</li>
     <li>🌟 Committed to making impactful contributions in cybersecurity through innovation and dedication.</li>
     <li> 🌱 Passionate about continuous learning and staying updated with cybersecurity trends and technologies.</li>
