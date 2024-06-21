@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone, I am Aaryan R Londhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1086F7&center=true&vCenter=true&width=1000&lines=Software+Developer.;Tech+Enthusiast.;Active+Learner.;Machine+Learning+Engineer.;Feel+free+to+reach+out!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1086F7&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst.;Active+Learner.;Feel+Free+To+Reach+Out!" alt="Typing SVG" /></a>
 </p>
 
 
