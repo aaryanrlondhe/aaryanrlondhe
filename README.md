@@ -30,9 +30,12 @@
 ---
 
 ### 🎖️ &nbsp;My Certifications :
+<p>
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/120x120/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/earner/earned/badge/4ad6b855-8845-4632-8596-a3d2690f1b24 "CompTIA Security+ ce Certification")
+</p>
 <br />
 
+<p>
 ### 🔥 &nbsp; My Stats :
 <br />
 
