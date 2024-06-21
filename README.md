@@ -37,17 +37,39 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resize Images Example</title>
+<style>
+  .image-container {
+    display: flex;
+    align-items: center;
+  }
+  .resizable-image {
+    width: 150px;
+    height: auto; /* Ensures aspect ratio is maintained */
+    margin-right: 20px; /* Adjust spacing between images */
+  }
+</style>
 </head>
 <body>
 
-<!-- Inserting and resizing the image -->
-<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
-     alt="CompTIA Security+ Logo" 
-     width="150" 
-     height="150">
+<!-- Container for images -->
+<div class="image-container">
+
+  <!-- First image -->
+  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg" 
+       alt="CompTIA Security+ Logo" 
+       class="resizable-image">
+
+  <!-- Second image -->
+  <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" 
+       alt="CompTIA Network+ Logo" 
+       class="resizable-image">
+
+</div>
 
 </body>
 </html>
+
 
 
 </p>
