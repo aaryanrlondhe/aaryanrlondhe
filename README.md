@@ -59,7 +59,7 @@
 
   <h3>📈 &nbsp;Statistics :</h3>
   <p style="text-align: center;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=sunset-gradient">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe)](https://git.io/streak-stats)
   </p>
 </body>
 </html>
