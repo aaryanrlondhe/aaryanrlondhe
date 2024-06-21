@@ -32,8 +32,11 @@
   <h3>🧠 &nbsp;About Me:</h3>
 
   <ul>
-    <li>💻 I'm a Computer Science student interested in Full Stack Development and Mathematics.</li>
-    <li>🌱 I'm always eager to learn new skills and technologies.</li>
+   <li> 💼 Currently a SOC Analyst at University of South Carolina, Aiken, focusing on cybersecurity operations.</li>
+<li>🎓 Pursuing a Bachelor’s in Computer Science with a Cybersecurity concentration, maintaining a GPA of 3.8.</li>
+<li>🏆 Recognized in the Hall of Fame by Apple, American Express, Shell, and Newfold for web server security contributions.</li>
+    <li>🌟 Committed to making impactful contributions in cybersecurity through innovation and dedication.</li>
+    <li> 🌱 Passionate about continuous learning and staying updated with cybersecurity trends and technologies.</li>
     <li>📫 How to reach me: <a href="mailto:aaryanrlondhe@gmail.com">aaryanrlondhe@gmail.com</a></li>
   </ul>
 
