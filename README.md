@@ -59,7 +59,7 @@
 
   <h3>📈 &nbsp;Statistics :</h3>
   <p style="text-align: center;">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe" alt="GitHub Streak" /></a>
   </p>
 </body>
 </html>
