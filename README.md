@@ -45,7 +45,7 @@
   }
   .resizable-image {
     width: 150px;
-    height: auto; /* Ensures aspect ratio is maintained */
+    height: 150px; /* Ensures aspect ratio is maintained */
     margin-right: 20px; /* Adjust spacing between images */
   }
 </style>
