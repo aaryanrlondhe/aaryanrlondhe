@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/aaryanrlondhe/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
+---
+
 ### 🧠 &nbsp;About Me:
 
 - 💻I'm a Computer Science student interested in Full Stack Development and Mathematics.
