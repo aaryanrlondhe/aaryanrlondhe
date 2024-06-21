@@ -35,7 +35,6 @@
 </p>
 <br />
 
-<p>
 ### 🔥 &nbsp; My Stats :
 <br />
 
