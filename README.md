@@ -12,17 +12,17 @@
  
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/atharv-patwardhan-b3175b216/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/aaryanrlondhe/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-<a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener noreferrer">
+<a href="https://orcid.org/0009-0007-0329-5085" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ORCID-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge">
 </a>
-<a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:aaryanrlondhe@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 </a>
-<a href="https://scholar.google.com/citations?user=your-google-scholar-id" target="_blank" rel="noopener noreferrer">
+<a href="https://scholar.google.com/citations?user=raZfDy0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Google%20Scholar-yellow?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge">
 </a>
 </p>
