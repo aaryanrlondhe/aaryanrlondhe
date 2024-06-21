@@ -32,7 +32,8 @@
 ---
 
 ### 🎖️ &nbsp;My Certifications :
-[![CompTIA Security+ ce Certification](https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg)](https://www.credly.com/earner/earned/badge/4ad6b855-8845-4632-8596-a3d2690f1b24 "CompTIA Security+ ce Certification")
+[CompTIA Security+ CE Certification](https://www.credly.com/earner/earned/badge/4ad6b855-8845-4632-8596-a3d2690f1b24)
+![Security Plus Logo](https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg){:height="100px" width="100px"}
 </p>
 
 ---
