@@ -30,6 +30,7 @@
 ---
 
 ### 🎖️ &nbsp; My Certifications :
+[![Security Analyst Fundamentals Specialization](https://images.credly.com/size/100x100/images/89fc0e9e-6da5-4146-b277-cd11c313123f/Security_Analyst_Fundamentals_Specialization.png)](http://www.credly.com/badges/8f3afd71-0986-4779-b2b6-11b824f85d70 "Security Analyst Fundamentals Specialization")
 <br />
 
 ### 🔥 &nbsp; My Stats :
