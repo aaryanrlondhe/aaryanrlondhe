@@ -48,7 +48,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80">&nbsp;
-<img src="https://nmap.org/images/nmap-project-logo.png" title="Nmap" alt="Nmap" width="80" height="80">&nbsp;
+<img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="80" height="80">&nbsp;
+
 
 
   </p>
