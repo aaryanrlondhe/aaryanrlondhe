@@ -52,7 +52,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="160" height="110">&nbsp;
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Metasploit_logo_and_wordmark.png/180px-Metasploit_logo_and_wordmark.png" title="Metasploit" alt="Metasploit" width="110" height="110">&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQ_4dS5OgKim18ZiC5pdXk0LtoDv3ZZfMug&s" title="Metasploit" alt="Metasploit" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/OpenVAS_logo.png" title="OpenVAS" alt="OpenVAS" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/NeXpose-logo.png" title="NeXpose" alt="NeXpose" width="110" height="110">&nbsp;
         <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/styles/og_image/public/2021-08/Nessus_Logo_WhiteBlue.png" title="Tenable Nessus" alt="Tenable Nessus" width="110" height="110">&nbsp;
