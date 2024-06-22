@@ -49,7 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="80" height="80">&nbsp;
-<img src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20compact/Maltego-Logo-Compact-Yellow.svg" title="Maltego" alt="Maltego" width="100" height="100">&nbsp;
+<img src="https://static.maltego.com/cdn/Maltego%20Branding/Maltego%20logo%20-%20compact/Maltego-Logo-Compact-Yellow.svg" title="Maltego" alt="Maltego" width="120" height="120">&nbsp;
 
 
 
