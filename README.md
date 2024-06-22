@@ -1,4 +1,3 @@
-![image](https://github.com/aaryanrlondhe/aaryanrlondhe/assets/63962758/f79759f7-44fd-4e87-ac76-4bc68734aae2)<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
