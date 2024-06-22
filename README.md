@@ -49,7 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="80" height="80">&nbsp;
 <img src="https://livengel.de/wp-content/uploads/2022/03/Maltego-Logo-Icon-Yellow-1.png" title="Maltego" alt="Maltego" width="110" height="110">&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="160" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="190" height="110">&nbsp;
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
         <img src="https://forum.greenbone.net/uploads/default/original/1X/85f2c3c10c2be8e4a9eb7a1d0cd34c5d66d57aba.png" title="Metasploit" alt="Metasploit" width="110" height="110">&nbsp;
