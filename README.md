@@ -60,7 +60,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark" alt="Wireshark" width="110" height="110">&nbsp;
         <img src="https://cdn.prod.website-files.com/64e50cbe2b6f932c04238c14/65bd1cf66a489fcb41c89f45_Azure_sentinel_high_res_logo%201.webp" title="Azure Sentinel" alt="Azure Sentinel" width="110" height="110">&nbsp;
         <img src="https://getlogovector.com/wp-content/uploads/2020/09/palo-alto-networks-inc-logo-vector.png" title="Palo Alto" alt="Palo Alto" width="210" height="110">&nbsp;
-        <img src="https://miro.medium.com/v2/resize:fit:736/1*le-_k9BdQFXpe9XwuXyb0w.png" title="Zap" alt="Microsoft Defender" width="260" height="110">&nbsp;
         <img src="https://alta-ict.nl/__asset?url=/wp-content/uploads/2022/11/microsoft-defender-e1670190403790-1.png&extension=jpg&width=1200" title="Microsoft Defender" alt="Microsoft Defender" width="210" height="110">&nbsp;
         
 
