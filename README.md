@@ -67,7 +67,7 @@
   <h3>📈 &nbsp;Statistics :</h3>
   <p style="text-align: center;">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aaryanrlondhe&theme=meta-light" alt="GitHub Streak" /></a>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
       </p>
 </body>
 </html>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
