@@ -28,7 +28,7 @@
 
 
 
-  <h3>🧠 &nbsp;About Me:</h3>
+  <h3>🧠 &nbsp;About Me :</h3>
 
   <ul>
    <li> 💼 Currently a SOC Analyst at University of South Carolina, Aiken, focusing on cybersecurity operations.</li>
