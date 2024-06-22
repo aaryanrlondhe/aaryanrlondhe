@@ -49,7 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="80" height="80">&nbsp;
 <img src="https://livengel.de/wp-content/uploads/2022/03/Maltego-Logo-Icon-Yellow-1.png" title="Maltego" alt="Maltego" width="110" height="110">&nbsp;
-        <img src="https://www.graylog.org/assets/img/favicons/favicon-32x32.png" title="Graylog" alt="Graylog" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="110" height="110">&nbsp;
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Metasploit.png" title="Metasploit" alt="Metasploit" width="110" height="110">&nbsp;
