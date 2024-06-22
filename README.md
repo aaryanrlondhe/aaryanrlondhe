@@ -49,7 +49,22 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="80" height="80">&nbsp;
 <img src="https://livengel.de/wp-content/uploads/2022/03/Maltego-Logo-Icon-Yellow-1.png" title="Maltego" alt="Maltego" width="110" height="110">&nbsp;
-
+ <img src="https://livengel.de/wp-content/uploads/2022/03/Maltego-Logo-Icon-Yellow-1.png" title="Maltego" alt="Maltego" width="110" height="110">&nbsp;
+        <img src="https://www.graylog.org/assets/img/favicons/favicon-32x32.png" title="Graylog" alt="Graylog" width="110" height="110">&nbsp;
+        <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Metasploit.png" title="Metasploit" alt="Metasploit" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/OpenVAS_logo.png" title="OpenVAS" alt="OpenVAS" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/NeXpose-logo.png" title="NeXpose" alt="NeXpose" width="110" height="110">&nbsp;
+        <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/styles/og_image/public/2021-08/Nessus_Logo_WhiteBlue.png" title="Tenable Nessus" alt="Tenable Nessus" width="110" height="110">&nbsp;
+        <img src="https://portswigger.net/cms/images/60/23/92fd-5b84-41cf-8486-aef2cc58d59f/original.png" title="Burp Suite" alt="Burp Suite" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark" alt="Wireshark" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nmap_logo.svg/1280px-Nmap_logo.svg.png" title="Nmap" alt="Nmap" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Azure_Sentinel_Logo.png" title="Azure Sentinel" alt="Azure Sentinel" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Kusto_Query_Language_Logo.png" title="Kusto Query Language (KQL)" alt="Kusto Query Language (KQL)" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Cisco_Meraki_Logo.png" title="Cisco Meraki" alt="Cisco Meraki" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Canva_Logo.png" title="Canva" alt="Canva" width="110" height="110">&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Microsoft_Defender_Logo.png" title="Microsoft Defender" alt="Microsoft Defender" width="110" height="110">&nbsp;
 
 
   </p>
