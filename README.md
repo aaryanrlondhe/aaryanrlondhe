@@ -49,6 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="110" height="110">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="110" height="110">&nbsp;
 <img src="https://livengel.de/wp-content/uploads/2022/03/Maltego-Logo-Icon-Yellow-1.png" title="Maltego" alt="Maltego" width="110" height="110">&nbsp;
+<img src="https://eaginc.com/wp-content/uploads/2024/01/Cisco-Square_1.png" title="Cisco Meraki" alt="Cisco Meraki" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="210" height="110">&nbsp;
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
@@ -58,7 +59,6 @@
         <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1459A839PA3861PT28D1048988145W10000H1908/views/1,width=650,height=650,appearanceId=839,backgroundColor=ffffff/burp-suite-colour-logo.jpg" title="Burp Suite" alt="Burp Suite" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark" alt="Wireshark" width="110" height="110">&nbsp;
         <img src="https://cdn.prod.website-files.com/64e50cbe2b6f932c04238c14/65bd1cf66a489fcb41c89f45_Azure_sentinel_high_res_logo%201.webp" title="Azure Sentinel" alt="Azure Sentinel" width="110" height="110">&nbsp;
-        <img src="https://eaginc.com/wp-content/uploads/2024/01/Cisco-Square_1.png" title="Cisco Meraki" alt="Cisco Meraki" width="110" height="110">&nbsp;
         <img src="https://getlogovector.com/wp-content/uploads/2020/09/palo-alto-networks-inc-logo-vector.png" title="Palo Alto" alt="Palo Alto" width="210" height="110">&nbsp;
         <img src="https://miro.medium.com/v2/resize:fit:736/1*le-_k9BdQFXpe9XwuXyb0w.png" title="Zap" alt="Microsoft Defender" width="260" height="110">&nbsp;
         <img src="https://alta-ict.nl/__asset?url=/wp-content/uploads/2022/11/microsoft-defender-e1670190403790-1.png&extension=jpg&width=1200" title="Microsoft Defender" alt="Microsoft Defender" width="210" height="110">&nbsp;
